@@ -1,5 +1,3 @@
-/*Assigment:3
-Campus:Beer Sheva,Author: Anna Rabynovych, ID: 336249628*/
 #include <cstring>
 #include <ctime>
 #include <cstdlib>
